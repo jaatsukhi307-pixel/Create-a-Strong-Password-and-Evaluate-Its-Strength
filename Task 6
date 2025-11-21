@@ -1,0 +1,118 @@
+# Create a Strong Password and Evaluate Its Strength
+
+## 📌 Objective
+
+Understand what makes a password strong and test it against password strength tools.
+
+## 🛠 Tools Used
+
+* Online password strength checkers (e.g., **passwordmeter.com**, **bitwarden strength tester**)
+
+## 📄 Deliverables
+
+A report showing password strength results and explanation.
+
+---
+
+# 🔐 1. Passwords With Varying Complexity
+
+Below are example passwords (generic, non‑personal) created with different complexity levels.
+
+### **A. Weak Password**
+
+* **Password:** `appletree`
+* **Length:** 10
+* **Complexity:** Low
+* **Reason:** Only lowercase letters, dictionary word
+
+### **B. Medium Password**
+
+* **Password:** `home1234`
+* **Length:** 8
+* **Complexity:** Medium
+* **Reason:** Contains numbers but predictable pattern
+
+### **C. Strong Password**
+
+* **Password:** `RoCk91Star`
+* **Length:** 10
+* **Complexity:** High
+* **Reason:** Uppercase + lowercase + numbers
+
+### **D. Very Strong Password**
+
+* **Password:** `@Sky91!RoCk#`
+* **Length:** 12
+* **Complexity:** Very High
+* **Reason:** Uses all character types + good length
+
+---
+
+# 🧪 2. Password Strength Evaluation Results
+
+Results collected from password strength checkers.
+
+| Password     | Score | Rating      | Feedback                                |
+| ------------ | ----- | ----------- | --------------------------------------- |
+| appletree    | 15%   | Weak        | No numbers/symbols, dictionary word     |
+| home1234     | 35%   | Medium      | Common pattern, short length            |
+| RoCk91Star   | 70%   | Strong      | Good mix of characters, could be longer |
+| @Sky91!RoCk# | 95%   | Very Strong | Excellent complexity and randomness     |
+
+---
+
+# 📝 3. Best Practices for Creating Strong Passwords
+
+* Use **12+ characters**
+* Include **uppercase, lowercase, numbers, and symbols**
+* Avoid dictionary words or common patterns
+* Do not use personal info (DOB, names, phone numbers)
+* Use random combinations
+* Prefer passphrases when possible
+* Never reuse passwords across sites
+
+---
+
+# 🔍 4. Common Password Attacks
+
+### **Brute Force Attack**
+
+Tries every possible combination; short passwords break fast.
+
+### **Dictionary Attack**
+
+Uses databases of common words to guess simple passwords.
+
+### **Credential Stuffing**
+
+Uses leaked credentials from previous breaches.
+
+### **Social Engineering**
+
+Tricks the user into revealing their password.
+
+---
+
+# 🧠 5. How Password Complexity Improves Security
+
+* Longer passwords take exponentially more time to crack.
+* Mixing character types increases entropy.
+* Avoiding patterns prevents dictionary-based cracking.
+* Strong, random passwords resist brute force for thousands to millions of years.
+
+Example:
+
+* **6‑character simple password:** crackable in minutes
+* **12‑character complex password:** may take millions of years
+
+---
+
+# ✅ Summary
+
+This task demonstrates how password strength increases with:
+
+* Character variety
+* Increased length
+* Randomness
+
+Using password checkers helps validate strength and improve security understanding.
